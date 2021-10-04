@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ahamamoto1125@gmail.com
+	name = Akiho Hamamoto
